@@ -1,0 +1,74 @@
+cleaned data also stored in to DB as master table 
+1.  warning critical down and 
+    up & available 
+2. using  warning critical down we create 3 KEDB tload this data in DB as 3 tables
+
+
+3. Also load ivanthi data  and clean that  also we add this to out master ivanthi table 
+
+4. using this 3 KEDB tables we seach solution on  master ivanthi if solution available we took that solution  use LLM to reprase it else we use LLM to have a Solution 
+and update the same in the 3 KEDB table
+
+
+
+infrense from user
+
+prompts
+user ask question 
+collect ans from 3 DBs 
+ and create meaningful ans it by NLTK
+
+
+
+What will do  on  Warning  state
+which device?
+ due to member status on Intertec Perimter FW01?
+
+
+What is the status of status on Intertec Perimter FW0?
+
+I am d=no checking
+
+
+
+Data Processing Workflow
+Data Cleaning and Storage:
+
+Cleaned data is stored in the database as a master table.
+Status categories include:
+Warning
+Critical
+Down
+Up & Available
+KEDB (Known Error Database) Creation:
+
+Based on the "Warning," "Critical," and "Down" statuses, three KEDB tables are created.
+This data is loaded into the database as three separate tables.
+Ivanthi Data Integration:
+
+Ivanthi data is cleaned and added to the master Ivanthi table.
+Solution Search Process:
+
+Use the three KEDB tables to search for solutions in the master Ivanthi table:
+If a solution exists: Use it and rephrase it with a Large Language Model (LLM).
+If no solution exists: Use the LLM to generate a solution and update the three KEDB tables with it.
+Inference and Response Generation
+User Prompts:
+When a user asks a question, the system collects answers from the three databases.
+A meaningful response is generated using NLTK (Natural Language Toolkit) for language processing.
+Example Scenario: Handling a Warning State
+Question:
+"What will we do in the 'Warning' state? Which device is impacted due to member status on Intertec Perimeter FW01?"
+
+Response Workflow:
+
+Identify the "Warning" state and impacted device in the database.
+Search for solutions in the three KEDB tables and the master Ivanthi table.
+If a solution is found: Rephrase it using the LLM.
+If no solution is found: Generate a new solution with the LLM.
+Present the final answer to the user.
+
+
+
+
+
