@@ -1,0 +1,32 @@
+Message,Status Code,Cluster
+Group Intertec Network is in a Warning state due to member status. Intertec Perimter FW01 Firepower 2110 is in a Warning state.,warning,2
+"Component ""WMI Remote Ping"" for application ""Remote Ping to http://100.92.20.15 (TATA)"" on node ""ISNOCPRIVAPP01"" is in a warning state 10.255.21.15",warning,2
+"Application ""Remote Ping to http://100.92.20.15 (TATA)"" on node ""ISNOCPRIVAPP01"" is in a warning state 10.255.21.15",warning,2
+"10.10.200.201 troubleshooting steps, see Resolve malformed flow data warning.",warning,2
+"Group DEEM AIX Server is in a Warning state due to member status. 2 members are in a Warning state, 16 members are in a Unmanaged state.",warning,2
+"Component ""WMI Remote Ping"" for application ""Remote Ping to http://100.92.20.15 (TATA)"" on node ""ISNOCPRIVAPP01"" is in a warning state 10.255.21.15",warning,2
+"Application ""Remote Ping to http://100.92.20.15 (TATA)"" on node ""ISNOCPRIVAPP01"" is in a warning state 10.255.21.15",warning,2
+"Application ""Microsoft System Center Configuration Manager Related Services"" on node ""ISDBPRCCM01"" is in a warning state 172.20.110.61",warning,2
+"Group Intertec Server is in a Warning state due to member status. 1 member is in a Warning state, 6 members are in a Unmanaged state.",warning,2
+"Component ""DNS Server"" for application ""NOC Infra Critical Active Directory Service Monitoring"" on node ""ISNOCPRDC04"" is in a warning state 10.255.12.12",warning,2
+"Application ""NOC Infra Critical Active Directory Service Monitoring"" on node ""ISNOCPRDC04"" is in a warning state 10.255.12.12",warning,2
+"Application ""Microsoft System Center Configuration Manager Related Services"" on node ""ISDBPRCCM01"" is in a warning state 172.20.110.61",warning,2
+Component CPU statistic (%) on Application AIX on Node PRDERPDB1 is Warning 10.156.40.10,warning,2
+"Component ""CPU statistic (%)"" for application ""AIX"" on node ""PRDERPDB1"" is in a warning state 10.156.40.10",warning,2
+"Application ""AIX"" on node ""PRDERPDB1"" is in a warning state 10.156.40.10",warning,2
+Group Intertec Network is in a Warning state due to member status. IS-IPT-ESXi-01 is in a Warning state.,warning,2
+"Component ""WMI Remote Ping"" for application ""Remote Ping to http://100.92.20.15 (TATA)"" on node ""ISNOCPRIVAPP01"" is in a warning state 10.255.21.15",warning,2
+"Application ""Remote Ping to http://100.92.20.15 (TATA)"" on node ""ISNOCPRIVAPP01"" is in a warning state 10.255.21.15",warning,2
+"Component ""Lock Waits/sec"" for application ""PRODSWSQL"" on node ""ISNOCPRODSWSQL"" is in a warning state 10.255.17.25",warning,2
+"Component ""WMI Remote Ping"" for application ""Remote Ping to http://100.92.20.15 (TATA)"" on node ""ISNOCPRIVAPP01"" is in a warning state ADD WIDGETS DONE EDITING 10.255.21.15 NOC_TEST",warning,2
+"Application ""Remote Ping to http://100.92.20.15 (TATA)"" on node ""ISNOCPRIVAPP01"" is in a warning state 10.255.21.15",warning,2
+"Component ""Lock Waits/sec"" for application ""PRODSWSQL"" on node ""ISNOCPRODSWSQL"" is in a warning state 10.255.17.25",warning,2
+"Component ""Page Writes/sec"" for application ""PRODSWSQL"" on node ""ISNOCPRODSWSQL"" is in a warning state 10.255.17.25",warning,2
+"Component ""WMI Remote Ping"" for application ""Remote Ping to http://100.92.20.15 (TATA)"" on node ""ISNOCPRIVAPP01"" is in a warning state 10.255.21.15",warning,2
+"Application ""Remote Ping to http://100.92.20.15 (TATA)"" on node ""ISNOCPRIVAPP01"" is in a warning state 10.255.21.15",warning,2
+"Application ""Microsoft System Center Configuration Manager Related Services"" on node ""ISDBPRCCM01"" is in a warning state 172.20.110.61",warning,2
+"Component ""WMI Remote Ping"" for application ""Remote Ping to http://100.92.20.15 (TATA)"" on node ""ISNOCPRIVAPP01"" is in a warning state 10.255.21.15",warning,2
+"Application ""Remote Ping to http://100.92.20.15 (TATA)"" on node ""ISNOCPRIVAPP01"" is in a warning state 10.255.21.15",warning,2
+"Component ""WMI Remote Ping"" for application ""Remote Ping to http://100.92.20.15 (TATA)"" on node ""ISNOCPRIVAPP01"" is in a warning state 10.255.21.15",warning,2
+"Application ""Remote Ping to http://100.92.20.15 (TATA)"" on node ""ISNOCPRIVAPP01"" is in a warning state 10.255.21.15",warning,2
+Group Intertec Network is in a Warning state due to member status. IS-DXB-HO-SRV-SW02.intertecsys.com is in a Warning state.,warning,2
