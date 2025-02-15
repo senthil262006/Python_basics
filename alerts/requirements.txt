@@ -158,7 +158,7 @@ multipledispatch @ file:///C:/ci/multipledispatch_1607574329826/work
 munkres==1.1.4
 murmurhash==1.0.10
 mypy-extensions==0.4.3
-mysql-connector-python==8.0.31
+mysql-connector-python==9.1.0
 mysql-connector-python-rf==2.2.2
 navigator-updater==0.3.0
 nbclassic @ file:///opt/conda/conda-bld/nbclassic_1644943264176/work
